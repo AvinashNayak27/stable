@@ -1,0 +1,27 @@
+{
+  "name": "stable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@thirdweb-dev/sdk": "^3.4.2",
+    "chalk": "^5.1.2",
+    "chalk-animation": "^2.0.3",
+    "client": "^0.0.1",
+    "dotenv": "^16.0.3",
+    "figlet": "^1.5.2",
+    "fs": "^0.0.1-security",
+    "gradient-string": "^2.0.2",
+    "inquirer": "^9.1.4",
+    "nanospinner": "^1.1.0",
+    "stability": "^1.0.7",
+    "stability-client": "^1.6.1"
+  }
+}
